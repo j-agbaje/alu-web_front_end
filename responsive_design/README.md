@@ -1,1 +1,1 @@
-Projct work on responsive design
+Responsive designing
